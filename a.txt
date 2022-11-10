@@ -1,1 +1,3 @@
 abc this is first line
+this is add line to file 1
+this is another line
